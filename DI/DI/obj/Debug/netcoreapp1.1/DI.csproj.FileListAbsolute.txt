@@ -1,0 +1,11 @@
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\bin\Debug\netcoreapp1.1\DI.deps.json
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\bin\Debug\netcoreapp1.1\DI.runtimeconfig.json
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\bin\Debug\netcoreapp1.1\DI.runtimeconfig.dev.json
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\bin\Debug\netcoreapp1.1\DI.dll
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\bin\Debug\netcoreapp1.1\DI.pdb
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\obj\Debug\netcoreapp1.1\DI.csprojResolveAssemblyReference.cache
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\obj\Debug\netcoreapp1.1\DI.AssemblyInfo.cs
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\obj\Debug\netcoreapp1.1\DI.dll
+c:\users\alan.costa\documents\visual studio 2017\Projects\DI\DI\obj\Debug\netcoreapp1.1\DI.pdb
+C:\Users\alan.costa\documents\visual studio 2017\Projects\DI\DI\obj\Debug\netcoreapp1.1\DI.csproj.CoreCompileInputs.cache
+C:\Users\alan.costa\documents\visual studio 2017\Projects\DI\DI\obj\Debug\netcoreapp1.1\DI.AssemblyInfoInputs.cache
